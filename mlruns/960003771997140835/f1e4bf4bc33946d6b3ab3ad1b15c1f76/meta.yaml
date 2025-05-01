@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/zzzzzzzzz/MLflow-practice/mlruns/960003771997140835/f1e4bf4bc33946d6b3ab3ad1b15c1f76/artifacts
+end_time: 1746078258323
+entry_point_name: ''
+experiment_id: '960003771997140835'
+lifecycle_stage: active
+run_id: f1e4bf4bc33946d6b3ab3ad1b15c1f76
+run_name: marvelous-smelt-805
+run_uuid: f1e4bf4bc33946d6b3ab3ad1b15c1f76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746078258273
+status: 3
+tags: []
+user_id: athar

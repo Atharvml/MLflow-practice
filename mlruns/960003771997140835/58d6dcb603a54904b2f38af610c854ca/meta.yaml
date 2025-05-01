@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/zzzzzzzzz/MLflow-practice/mlruns/960003771997140835/58d6dcb603a54904b2f38af610c854ca/artifacts
+end_time: 1746078642514
+entry_point_name: ''
+experiment_id: '960003771997140835'
+lifecycle_stage: active
+run_id: 58d6dcb603a54904b2f38af610c854ca
+run_name: bemused-cub-460
+run_uuid: 58d6dcb603a54904b2f38af610c854ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746078636257
+status: 3
+tags: []
+user_id: athar
